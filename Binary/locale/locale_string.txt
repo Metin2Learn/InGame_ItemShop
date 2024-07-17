@@ -1,0 +1,6 @@
+990	|cff00A8EB[ItemShop]|r |cffFFFFFFItemShop was update!|r
+991	|cff00A8EB[ItemShop]|r |cffFFFFFFYou don't have enought dragon coin!|r
+992	|cff00A8EB[ItemShop]|r |cffFFFFFFYou bought from game itemshop|r |cffF7BD48%sx%d|r |cffFFFFFFfor|e |cffF7BD48%d|r |cffFFFFFFCoins. You can get in on ItemShop Warehouse.|r
+993	|cff00A8EB[ItemShop]|r |cffFFFFFFYou bought from game itemshop|r |cffF7BD48%s|r |cffFFFFFFfor|r |cffF7BD48%d|r |cffFFFFFFCoins. You can get in on ItemShop Warehouse.|r
+994	|cff00A8EB[ItemShop]|r |cffFFFFFFYou cannot exceed the weekly purchase count. Max Count Per Week: %d|r
+995	|cff00A8EB[ItemShop]|r |cffFFFFFFYou cannot exceed the monthly purchase count. Max Count Per Month: %d|r
